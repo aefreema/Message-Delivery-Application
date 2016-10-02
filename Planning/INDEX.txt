@@ -1,0 +1,11 @@
+Example documents from the early planning stage of the project. Figuring out the needs of the customer and what software would be useful to them.
+
+-----------------------------------------------------------------------------
+
+DepartmentOutline: 
+
+Example of possible inputs and outputs for three different departments represented in the system.
+
+DHSDeptRoughDraft:
+
+Example of possible tasks DHS departments would need to do, along with possible functionality for Department and Employee classes.

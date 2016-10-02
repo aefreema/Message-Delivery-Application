@@ -1,0 +1,19 @@
+Planning of the general system, including relationship between classes and the functionality provided by each class.
+
+---------------------------------------------------------------------------
+DHSInterfaceDLnotes:
+
+Planning how the Domain Logic and GUI would interact.
+
+OOA:
+
+Showing basic UML for the General System Model as well as the Department Inheritance Model and the Report Inheritance Model.
+
+OOD:
+
+Showing detailed UML for the General System Model as well as the Department Inheritance Model and the Report Inheritence Model.
+
+OODClasses:
+
+Planning out methods and member variables for various classes in the system.
+
